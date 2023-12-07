@@ -11,3 +11,4 @@ A README file for Shell Permissions
 8-James_Bond gives all the permissions to only the users.
 9-John_Doe sets the mode of the file "hello" to rwxr-x-wx.
 10-mirror_permissions sets the permission mode of betty to that of olleh.
+11-directories_permissions is  a script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users.
