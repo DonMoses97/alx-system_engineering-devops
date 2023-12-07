@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod ogu=rwx------ hello
+chmod u+g+o=------rwx hello
