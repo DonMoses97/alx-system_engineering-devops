@@ -5,3 +5,4 @@ A README file for Shell Permissions
 2-groups prints all the groups the current user is part of.
 3-new_owner changes the ownership of the file "hello" to Betty.
 4-empty creates an empty file "hello".
+5-execute adds execute permission to the owner of the file hello.
