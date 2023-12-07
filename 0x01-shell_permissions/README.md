@@ -10,3 +10,4 @@ A README file for Shell Permissions
 7-everybody adds execution permission to the owner, the group owner and the other users.
 8-James_Bond gives all the permissions to only the users.
 9-John_Doe sets the mode of the file "hello" to rwxr-x-wx.
+10-mirror_permissions sets the permission mode of betty to that of olleh.
