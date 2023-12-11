@@ -5,3 +5,4 @@ A README file for 0x02. Shell, I/O Redirections and filters project.
 2-hellofile displays the content of the /etc/passwd file.
 3-twofiles displays the content of /etc/passwd and /etc/hosts
 4-lastlines displays the last 10 lines of /etc/passwd.
+5-firstlines displays the last 10 lines of /etc/passwd.
